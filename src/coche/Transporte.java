@@ -5,6 +5,8 @@ import java.util.Scanner;
 /**
  * Programa que permite mediante constructores obtener los datos del tipo de coche que el usuario ingresa
  * @author Medina Villalpando Josue de Jesus 
+  * @version 1.0
+ * @since 03/09/17
  */
 public class Transporte {
 
